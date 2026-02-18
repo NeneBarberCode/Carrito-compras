@@ -1,10 +1,10 @@
-🛒 _Carrito de Compras con Context API_
+🛒 **_Carrito de Compras con Context API_**
 
-Mini proyecto desarrollado con React utilizando Context API para manejo de estado global.
+Mini proyecto desarrollado con **React** utilizando **Context API** para manejo de estado global.
 
 Este proyecto simula el comportamiento básico de un carrito de compras como en un e-commerce real.
 
-🚀 _Tecnologías utilizadas_
+🚀 **_Tecnologías utilizadas_**
 
 - React
 
@@ -16,7 +16,7 @@ Este proyecto simula el comportamiento básico de un carrito de compras como en 
 
 - JavaScript (ES6+)
 
-🎯 _Objetivo del Proyecto_
+🎯 **_Objetivo del Proyecto_**
 
 Aprender a:
 
@@ -30,29 +30,29 @@ Aprender a:
 
 - Manejar lógica de carrito (agregar, aumentar, disminuir cantidades)
 
-- Manipular arrays de manera inmutable
 
-🧠 _Funcionalidades_
+
+🧠 **_Funcionalidades_**
 ✅ **Agregar producto al carrito**
 
 - Si el producto no existe → se agrega con cantidad 1
 
 - Si ya existe → aumenta la cantidad
 
-➕ Aumentar cantidad
+➕** Aumentar cantidad**
 
 Incrementa la cantidad de un producto existente.
 
-➖ Disminuir cantidad
+➖ **Disminuir cantidad**
 
 Reduce la cantidad.
 Si la cantidad llega a 0 → se elimina automáticamente del carrito.
 
-🗑 Eliminación automática
+🗑 **Eliminación automática**
 
 Cuando la cantidad es 0, el producto desaparece del carrito.
 
-📈 _Posibles Mejoras Futuras_
+📈 **_Posibles Mejoras Futuras_**
 
 - 💰 Agregar precio a productos
 
@@ -64,7 +64,7 @@ Cuando la cantidad es 0, el producto desaparece del carrito.
 
 - 🎨 Mejorar diseño UI
 
-- 🧾 Agregar sistema de checkout
+
 
 👨‍💻 **Autor**
 
